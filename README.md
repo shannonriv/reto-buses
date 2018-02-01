@@ -9,7 +9,6 @@
 * Shannon Rivera
 * Ada Yajahuanca
 
-
 PROBLEM STATEMENTS
 
 Emilia necesita información de las paradas en el recorrido del bus para sentirse segura en el trayecto.
@@ -42,15 +41,4 @@ Mostrar en un cuadro las características y los servicios que ofrece el bus y br
 
 Crear un zona en la que se muestre los comentarios asociados a los fan pages y paginas web de cada empresa de bus
 
-
-
-
-
-
-
-
-
-
-
-
-
+Crear un logueo en el caso que deseemos comentar, puntuar o valorar.
