@@ -49,10 +49,10 @@ _**¿Por qué lo calificaría usted de ese modo?**_
 _**¿Qué busca usted en un servicio de bus?**_
 _**¿Qué sugerencia le daría usted a las empresas de bus para mejorar su experiencia de viaje?**_
 
-![formulario](https://raw.githubusercontent.com/adayc/reto-buses/nat-branch/assets/images/formulario.png) 
+![formulario](https://raw.githubusercontent.com/adayc/reto-buses/nat-branch/assets/images/formulario1.png) 
 
 * Opiniones en foros de las páginas:
-![foro]()
+![foro](https://raw.githubusercontent.com/adayc/reto-buses/nat-branch/assets/images/foro.png)
 
 _**AFFINITY MAPPING:**_
 1.	Analizamos las respuestas de los encuestados entre los miembros del equipo.
@@ -64,14 +64,40 @@ _**AFFINITY MAPPING:**_
 7.	Por último, se discutimos como hemos quedado los grupos y los elementos correspondientes al tema.
 ![diagrama](https://raw.githubusercontent.com/adayc/reto-buses/nat-branch/assets/images/diagrama.jpg) 
 **Temas encontrados:**
+
 * Seguridad
+
+"Que desaparezcan que haya solo aviones . Más seguridad en robos , pasajeros en la carretera . 
+Paradas inesperadas."
+
 * Horarios y puntualidad
+
+"Que sean puntuales en la hora de salida y de llegada."
+
 * Atención al cliente
+
+"Que siempre tengan una terramoza y buena atención."
+
 * Servicios en el bus
+
+"No te dan adicionales como comida."
+
 * Estado de las unidades
+
+"Brindar buenas unidades y asientos."
+
 * Comodidad en el bus
+
+"Siempre es incómodo viajar muchas hora en el bus y no hay alguien que se preocupe por tu comodidad"
+
 * Compra online
+
+"Si compro con anticipación me sale con descuento e inclusive aveces hay promociones."
+
 * Precio
+
+"Barato y buenos buses"
+
 * Compra presencial
 
 ### PRESENTACIÓN DEL PROBLEMA:
@@ -81,6 +107,17 @@ Por lo tanto, apoyándonos en el mapa de afinidad en el cual agrupamos todos est
  > “La falta de información detallada en servicios, rutas y paradas y recomendaciones acerca de los servicios que brindan las empresas de transporte terrestre interprovincial.”
 
 ### USER PERSONAS:
+**User Persona primary**
+
+![User Persona](https://raw.githubusercontent.com/adayc/reto-buses/nat-branch/assets/images/userpersona.png)
+
+**User persona secondary**
+
+### PROBLEM STATEMENTS:
+### HMW (HOW MIGHT WE):
+### WHAT IF:
+### FEATURE LIST:
+### PRIORIZACION:
 
 ### CONTENT PROTOTYPING:
 [Content Prototyping](https://docs.google.com/presentation/d/1RiaopXo3EmxxdSaE4hPKQCHLNa8ou5eNxguGarq-6kc/edit?usp=sharing)
