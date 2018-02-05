@@ -49,10 +49,10 @@ _**¿Por qué lo calificaría usted de ese modo?**_
 _**¿Qué busca usted en un servicio de bus?**_
 _**¿Qué sugerencia le daría usted a las empresas de bus para mejorar su experiencia de viaje?**_
 
-![formulario](https://raw.githubusercontent.com/adayc/reto-buses/nat-branch/assets/images/formulario1.png) 
+![formulario](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/formulario1.png) 
 
 * Opiniones en foros de las páginas:
-![foro](https://raw.githubusercontent.com/adayc/reto-buses/nat-branch/assets/images/foro.png)
+![foro](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/foro.png)
 
 _**AFFINITY MAPPING:**_
 1.	Analizamos las respuestas de los encuestados entre los miembros del equipo.
@@ -109,12 +109,35 @@ Por lo tanto, apoyándonos en el mapa de afinidad en el cual agrupamos todos est
 ### USER PERSONAS:
 **User Persona primary**
 
-![User Persona](https://raw.githubusercontent.com/adayc/reto-buses/nat-branch/assets/images/userpersona.png)
+![User Persona](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/userpersona.png)
 
 **User persona secondary**
 
 ### PROBLEM STATEMENTS:
-### HMW (HOW MIGHT WE):
+![Problem statement](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/pstatements.png)
+
+### HMW (HOW MIGHT WE o Cómo podríamos):
+
+1.    _**HMW** mostramos las rutas y paradas de los buses a los pasajeros?_
+
+2.    _**HMW** hacer que las paradas sean aprovechadas por los pasajeros?_
+
+3.    _**HMW** mostrar la información de los servicios del bus a los pasajeros?_
+
+4.    _**HMW** comparar los servicios de los buses entre ellos?_
+
+5.    _**HMW** intercambiar información y recomendaciones de las empresas de bus entre usuarios?_
+
+6.    _**HMW** validar la información que dan las empresas acerca de sus servicios?_
+
+7.    _**HMW** mostrar la información del clima, accidentes, retrasos a los pasajeros en tiempo real?_
+
+8.    _**HMW** dar atención personalizada a nuestros usuarios?_
+
+9.    _**HMW** que los usuarios verifiquen el buen estado de los buses?_
+
+10.    _**HMW** que los usuarios se mantengan informados acerca de los horarios de llegada y salida de los buses?_
+
 ### WHAT IF:
 ### FEATURE LIST:
 ### PRIORIZACION:
