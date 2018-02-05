@@ -114,7 +114,7 @@ Por lo tanto, apoyándonos en el mapa de afinidad en el cual agrupamos todos est
 **User persona secondary**
 
 ### PROBLEM STATEMENTS:
-![Problem statement](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/pstatements.png)
+![Problem statement](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/pstatements.JPG)
 
 ### HMW (HOW MIGHT WE o Cómo podríamos):
 
