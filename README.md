@@ -54,7 +54,6 @@ _**¿Qué sugerencia le daría usted a las empresas de bus para mejorar su exper
 * Opiniones en foros de las páginas:
 ![foro]()
 
-
 _**AFFINITY MAPPING:**_
 1.	Analizamos las respuestas de los encuestados entre los miembros del equipo.
 2.	Cada miembro del grupo analizo las ideas en tarjetas de forma individual.
@@ -63,7 +62,7 @@ _**AFFINITY MAPPING:**_
 5.	En cada grupo de ideas, colocamos un título en común mediante una discusión en grupo.
 6.	Dibujamos el diagrama de afinidad, en el que se situamos las ideas a medida que eran agrupadas.
 7.	Por último, se discutimos como hemos quedado los grupos y los elementos correspondientes al tema.
-![diagrama]() 
+![diagrama](https://raw.githubusercontent.com/adayc/reto-buses/nat-branch/assets/images/diagrama.jpg) 
 **Temas encontrados:**
 * Seguridad
 * Horarios y puntualidad
