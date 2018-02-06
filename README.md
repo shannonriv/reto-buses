@@ -36,18 +36,31 @@ Se realizó una observación contextual en  los terminales de autobuses y áreas
 _**Encuestas:**_
 *	Encuestas presenciales y [online](https://docs.google.com/forms/d/1spEVI_2zr-XjkvmiQ4f6wRZsXpssyU4BUgmFTvxz60I/viewform?edit_requested=true) en terminales de bus y lugares concurridos
 Se realizó una encuesta de 4 minutos a las personas con las siguientes preguntas: 
+
 _**País:**_
+
 _**Sexo:**_
+
 _**Edad:**_
+
 _**¿A qué se dedica actualmente?**_
+
 _**¿Cuántas veces al mes realiza un viaje?**_
+
 _**¿Cuál es el medio por el que adquiere generalmente sus boletos cuando viaja?**_
+
 _**¿Qué te llevo a elegir ese medio?**_
+
 _**¿Cuál es el motivo principal por el que realiza un viaje?**_
+
 _**En general ¿ Cómo calificaría usted su experiencia viajando en bus?**_
+
 _**¿Por qué lo calificaría usted de ese modo?**_
+
 _**¿Qué busca usted en un servicio de bus?**_
+
 _**¿Qué sugerencia le daría usted a las empresas de bus para mejorar su experiencia de viaje?**_
+
 
 ![formulario](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/formulario1.png) 
 
@@ -55,14 +68,23 @@ _**¿Qué sugerencia le daría usted a las empresas de bus para mejorar su exper
 ![foro](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/foro.png)
 
 _**AFFINITY MAPPING:**_
+
 1.	Analizamos las respuestas de los encuestados entre los miembros del equipo.
+
 2.	Cada miembro del grupo analizo las ideas en tarjetas de forma individual.
+
 3.	Luego del análisis de ideas, se recolectaron las tarjetas para que estas sean expuestas aleatoriamente.
+
 4.	Agrupamos  las ideas por “afinidad mutua”.
+
 5.	En cada grupo de ideas, colocamos un título en común mediante una discusión en grupo.
+
 6.	Dibujamos el diagrama de afinidad, en el que se situamos las ideas a medida que eran agrupadas.
+
 7.	Por último, se discutimos como hemos quedado los grupos y los elementos correspondientes al tema.
+
 ![diagrama](https://raw.githubusercontent.com/adayc/reto-buses/nat-branch/assets/images/diagrama.jpg) 
+
 **Temas encontrados:**
 
 * Seguridad
@@ -139,7 +161,47 @@ Por lo tanto, apoyándonos en el mapa de afinidad en el cual agrupamos todos est
 10.    _**HMW** que los usuarios se mantengan informados acerca de los horarios de llegada y salida de los buses?_
 
 ### WHAT IF:
+
+1.    What if no necesita comparar con otras empresas porque esta fidelizado solo con una?
+
+2.    What if el bus no hace paradas?
+
+3.    What if la terramoza indica lo que pueden encontrar en cada parada?
+
+4.    What if colocamos un módulo de atención al pasajero para consultas de los servicios?
+
+5.    What if los pasajeros buscan referencias con los demás pasajeros al momento de hacer la compra del pasaje?
+
+6.    What if los pasajeros buscan información del clima en los servicios meteorológicos?
+
+7.    What if los pasajeros tienen asistentes?
+
+8.    What if SUTRAN verifica el estado de los buses antes de la partida?
+
+9.    What if los buses salen todas las horas?
+
+
 ### FEATURE LIST:
+
+
+* Mostrar un mapa con la ruta y sus paradas en el viaje.
+
+* Mostrar lo que puede encontrar en cada parada del viaje.
+
+* Mostrar en un cuadro las características y los servicios que ofrece el bus
+
+* Mostrar un cuadro con las características técnicas y estado del bus.
+
+* Brindar una opción para comparar el bus elegido con otros.
+
+* Visualizar las recomendaciones y valoraciones  que dan los usuarios acerca de los servicios recibidos en el bus.
+
+* Crear un zona en la que se muestre los comentarios asociados a los fan pages y páginas web de cada empresa de bus.
+
+* Crear un logueo en el caso que deseemos comentar, puntuar o valorar.
+
+* Brindar información en tiempo real de inconvenientes con los viajes.
+
 ### PRIORIZACION:
 
 ### CONTENT PROTOTYPING:
