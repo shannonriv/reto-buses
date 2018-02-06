@@ -206,4 +206,4 @@ Por lo tanto, apoyándonos en el mapa de afinidad en el cual agrupamos todos est
 
 ### CONTENT PROTOTYPING:
 [Content Prototyping](https://docs.google.com/presentation/d/1RiaopXo3EmxxdSaE4hPKQCHLNa8ou5eNxguGarq-6kc/edit?usp=sharing)
-![Content Prototyping](https://raw.githubusercontent.com/adayc/reto-buses/nat-branch/assets/images/content.png)
+![Content Prototyping](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/cprototyping.png)
