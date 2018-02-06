@@ -22,9 +22,10 @@ _**HERRAMIENTAS**_
 *[Trello](https://trello.com/b/AmqGLK3O/nueva-experiencia-en-empresas-de-buses)
 ![Trello](https://raw.githubusercontent.com/adayc/reto-buses/nat-branch/assets/images/trello.png)
 
-### UX RESEARCH :
-_**Nuestro proceso de diseño:**_
+## NUESTRO PROCESO UX :
 ![proceso](https://raw.githubusercontent.com/adayc/reto-buses/nat-branch/assets/images/proceso.png)
+
+## Descubrimiento e investigación: 
 ![entrevista](https://raw.githubusercontent.com/adayc/reto-buses/nat-branch/assets/images/encuesta1.jpg) ![entrevista](https://raw.githubusercontent.com/adayc/reto-buses/nat-branch/assets/images/encuesta2.jpg) 
 
 _**Observación contextual :**_
@@ -66,6 +67,8 @@ _**¿Qué sugerencia le daría usted a las empresas de bus para mejorar su exper
 
 * Opiniones en foros de las páginas:
 ![foro](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/foro.png)
+
+## Síntesis y definición:
 
 _**AFFINITY MAPPING:**_
 
@@ -131,9 +134,13 @@ Por lo tanto, apoyándonos en el mapa de afinidad en el cual agrupamos todos est
 ### USER PERSONAS:
 **User Persona primary**
 
-![User Persona](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/userpersona.png)
+![User Persona](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/user person-01.png)
 
 **User persona secondary**
+
+![User Persona](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/user person-02.png)
+
+![User Persona](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/user person-03.png)
 
 ### PROBLEM STATEMENTS:
 ![Problem statement](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/pstatements.JPG)
@@ -180,9 +187,8 @@ Por lo tanto, apoyándonos en el mapa de afinidad en el cual agrupamos todos est
 
 9.    What if los buses salen todas las horas?
 
-
+## Ideación:
 ### FEATURE LIST:
-
 
 * Mostrar un mapa con la ruta y sus paradas en el viaje.
 
@@ -203,6 +209,9 @@ Por lo tanto, apoyándonos en el mapa de afinidad en el cual agrupamos todos est
 * Brindar información en tiempo real de inconvenientes con los viajes.
 
 ### PRIORIZACION:
+![Priorización](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/priorizacion.png)
+
+## Prototipado:
 
 ### CONTENT PROTOTYPING:
 [Content Prototyping](https://docs.google.com/presentation/d/1RiaopXo3EmxxdSaE4hPKQCHLNa8ou5eNxguGarq-6kc/edit?usp=sharing)
