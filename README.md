@@ -218,10 +218,10 @@ Por lo tanto, apoyándonos en el mapa de afinidad en el cual agrupamos todos est
 En esta etapa de diseño se siguieron estos pasos:
 
 * **Realizar paper prototypes de su MVP**
-- Cada integrante realizó un modelo del MVP,con ayuda del _Content Prototyping_.
+-Cada integrante realizó un modelo del MVP,con ayuda del _Content Prototyping_.
 
 Nataly Cortez
-![Prototyping]()
+![Prototyping](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/natsprototyping.jpg)
 
 Karina Buhezo
 ![Prototyping]()
@@ -236,28 +236,44 @@ Shannon Rivera
 ![Prototyping]()
 
 Ada Yajahuanca
-![Prototyping]()
+![Prototyping](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/adaprototyping.jpg)
 
-- Después de esto, el grupo analizó cada prototipo y se rescataron los aportes para que el _Paper Prototyping_ tenga un contenido adecuado y con coherencia respecto al _Content Prottyping_.Se diseñó un nuevo _Paper Prototyping_:
-![Primer Paper Prototyping]()
+-Después de esto, el grupo analizó cada prototipo y se rescataron los aportes para que el _Paper Prototyping_ tenga un contenido adecuado y con coherencia respecto al _Content Prottyping_.Se diseñó un nuevo _Paper Prototyping_:
+![Primer Paper Prototyping](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/15.jpg)
+![Primer Paper Prototyping](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/12.jpg)
+![Primer Paper Prototyping](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/11.jpg)
+![Primer Paper Prototyping](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/9.jpg)
+![Primer Paper Prototyping](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/4.jpg)
 
 * **Planear testing de los prototipos**
+
+-Reclutamos usuarios que sean relevantes para el producto.
+
+-Se elabora un _Script_ para dar detalles de lo que le diremos al usuario.
+
+-Grabamos la sesión para analizar el feedback de los usuarios.
 
 * **Realizar sesiones de testing**
 
 Cada integrante realizó un _Testing_ para obtener feedbacks distintos y que puedan aportar a la mejora del producto.
-![Testing Session]()
+![Testing Session](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/testing.png)
 
 * **Iterar**
 
-Después de cada _Testing_ surgían observaciones de los reclutados para la entrevista,y esto nos hacía querer modificar ciertas partes del producto para poder garantizar una mejor experiencia al momento de usar el producto 
-
+Después de cada _Testing_ surgían observaciones de los reclutados para la entrevista,y esto nos hacía querer modificar ciertas partes del producto para poder garantizar una mejor experiencia al momento de usar el producto.
+![Iterar](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/32.jpg)
 
 * **Testear nuevamente**
 
 Después de modificar el _Paper Prototyping_ con las mejoras solicitadas por los reclutados y en previa coordinación con las integrantes del equipo, se realizó un segundo _Paper Prototyping_:
-![Segundo Paper Prototyping]()
-
+![Segundo Paper Prototyping](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/30.jpg)
+![Segundo Paper Prototyping](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/29.jpg)
+![Segundo Paper Prototyping](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/27.jpg)
+![Segundo Paper Prototyping](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/24.jpg)
+![Segundo Paper Prototyping](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/26.jpg)
+![Segundo Paper Prototyping](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/18.jpg)
+![Segundo Paper Prototyping](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/20.jpg)
+![Segundo Paper Prototyping](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/22.jpg)
 ### DEBRIEFING:
 
 Decidan cuáles serán los siguiente pasos:
