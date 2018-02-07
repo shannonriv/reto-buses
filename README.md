@@ -22,19 +22,20 @@ _**HERRAMIENTAS**_
 *[Trello](https://trello.com/b/AmqGLK3O/nueva-experiencia-en-empresas-de-buses)
 ![Trello](https://raw.githubusercontent.com/adayc/reto-buses/nat-branch/assets/images/trello.png)
 
-### UX RESEARCH :
-_**Nuestro proceso de diseño:**_
+## NUESTRO PROCESO UX :
 ![proceso](https://raw.githubusercontent.com/adayc/reto-buses/nat-branch/assets/images/proceso.png)
+
+## Descubrimiento e investigación: 
 ![entrevista](https://raw.githubusercontent.com/adayc/reto-buses/nat-branch/assets/images/encuesta1.jpg) ![entrevista](https://raw.githubusercontent.com/adayc/reto-buses/nat-branch/assets/images/encuesta2.jpg) 
 
 _**Observación contextual :**_
-Se realizó una observación contextual en  los terminales de autobuses y áreas concurridas para conocer el comportamiento de los usuarios, descubrimos lo siguiente:
-*	Los usuarios deseaban que se les apoye en el embarque y desembarque de equipaje buscaban personal para eso.
+Se realizó una observación contextual en  los terminales de autobuses y áreas concurridas para conocer el comportamiento de los usuarios, aqui se pudo descubrir lo siguiente:
+* Los usuarios desean que se les apoye en el embarque y desembarque de equipaje, buscan personal para eso.
 * Mostraban incomodidad e impaciencia por las demoras  en los buses.
 * Los usuarios escuchaban atentos a los parlantes para evitar perder el bus.
 
 _**Encuestas:**_
-*	Encuestas presenciales y [online](https://docs.google.com/forms/d/1spEVI_2zr-XjkvmiQ4f6wRZsXpssyU4BUgmFTvxz60I/viewform?edit_requested=true) en terminales de bus y lugares concurridos
+* Encuestas presenciales y [online](https://docs.google.com/forms/d/1spEVI_2zr-XjkvmiQ4f6wRZsXpssyU4BUgmFTvxz60I/viewform?edit_requested=true) en terminales de bus y lugares concurridos
 Se realizó una encuesta de 4 minutos a las personas con las siguientes preguntas: 
 
 _**País:**_
@@ -45,17 +46,17 @@ _**Edad:**_
 
 _**¿A qué se dedica actualmente?**_
 
-_**¿Cuántas veces al mes realiza un viaje?**_
+_**¿Con que frecuencia realiza un viaje en bus?**_
 
 _**¿Cuál es el medio por el que adquiere generalmente sus boletos cuando viaja?**_
 
-_**¿Qué te llevo a elegir ese medio?**_
+_**¿Qué le llevo a elegir ese medio?**_
 
 _**¿Cuál es el motivo principal por el que realiza un viaje?**_
 
 _**En general ¿ Cómo calificaría usted su experiencia viajando en bus?**_
 
-_**¿Por qué lo calificaría usted de ese modo?**_
+_**¿Por qué lo califica usted de ese modo?**_
 
 _**¿Qué busca usted en un servicio de bus?**_
 
@@ -67,11 +68,13 @@ _**¿Qué sugerencia le daría usted a las empresas de bus para mejorar su exper
 * Opiniones en foros de las páginas:
 ![foro](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/foro.png)
 
+## Síntesis y definición:
+
 _**AFFINITY MAPPING:**_
 
 1.	Analizamos las respuestas de los encuestados entre los miembros del equipo.
 
-2.	Cada miembro del grupo analizo las ideas en tarjetas de forma individual.
+2.	Cada miembro del grupo analizó las ideas en tarjetas de forma individual.
 
 3.	Luego del análisis de ideas, se recolectaron las tarjetas para que estas sean expuestas aleatoriamente.
 
@@ -81,7 +84,7 @@ _**AFFINITY MAPPING:**_
 
 6.	Dibujamos el diagrama de afinidad, en el que se situamos las ideas a medida que eran agrupadas.
 
-7.	Por último, se discutimos como hemos quedado los grupos y los elementos correspondientes al tema.
+7.	Por último, discutimos como quedan los grupos y los elementos correspondientes al tema.
 
 ![diagrama](https://raw.githubusercontent.com/adayc/reto-buses/nat-branch/assets/images/diagrama.jpg) 
 
@@ -130,10 +133,11 @@ Por lo tanto, apoyándonos en el mapa de afinidad en el cual agrupamos todos est
 
 ### USER PERSONAS:
 **User Persona primary**
-
-![User Persona](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/userpersona.png)
+![User Persona](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/userperson-01.png)
 
 **User persona secondary**
+![User Persona](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/userperson-02.png)
+![User Persona](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/userperson-03.png)
 
 ### PROBLEM STATEMENTS:
 ![Problem statement](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/pstatements.JPG)
@@ -180,9 +184,8 @@ Por lo tanto, apoyándonos en el mapa de afinidad en el cual agrupamos todos est
 
 9.    What if los buses salen todas las horas?
 
-
+## Ideación:
 ### FEATURE LIST:
-
 
 * Mostrar un mapa con la ruta y sus paradas en el viaje.
 
@@ -203,7 +206,16 @@ Por lo tanto, apoyándonos en el mapa de afinidad en el cual agrupamos todos est
 * Brindar información en tiempo real de inconvenientes con los viajes.
 
 ### PRIORIZACION:
+![Priorización](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/priorizacion.png)
+
 
 ### CONTENT PROTOTYPING:
 [Content Prototyping](https://docs.google.com/presentation/d/1RiaopXo3EmxxdSaE4hPKQCHLNa8ou5eNxguGarq-6kc/edit?usp=sharing)
 ![Content Prototyping](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/cprototyping.png)
+
+### PAPER PROTOTYPING & TESTING:
+* Realizar paper prototypes de su MVP
+* Planear testing de los prototipos
+* Realizar sesiones de testing
+* Iterar
+* Testear nuevamente
