@@ -258,12 +258,27 @@ Ada Yajahuanca
 Cada integrante realizó un _Testing_ para obtener feedbacks distintos y que puedan aportar a la mejora del producto.
 ![Testing Session](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/testing.png)
 
-* **Iterar**
+#### PRIMER TESTING:
+Se realizó un primer testeo con 3 compañeras de la especialidad de frontend con lo cual pudimos concluir:
+1.	Cada cuadro que muestra la empresa a elegir debería tener su nombre y una valoración promedio la cual sería ser dada por el público usuario.
+2.	El botón de búsqueda era poco llamativo con lo cual no sabían muy bien para que servía.
+3.	Cuando hemos elegido la empresa aun debería poder seguir viendo la valoración ya que es un respaldo de lo que piensa la gente.
+4.	No entendían muy bien el botón de la casita.
+5.	Se añadió el botón para volver a la vista anterior.
+6.	Querían comparar más de 2.
 
-Después de cada _Testing_ surgían observaciones de los reclutados para la entrevista,y esto nos hacía querer modificar ciertas partes del producto para poder garantizar una mejor experiencia al momento de usar el producto.
+Después de este _Testing_ surgían observaciones de los reclutados para la entrevista,y esto nos hacía querer modificar ciertas partes del producto para poder garantizar una mejor experiencia al momento de usar el producto.
 ![Iterar](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/32.jpg)
 
-* **Testear nuevamente**
+#### SEGUNDO TESTING:
+Se hizo una segunda iteración esta vez con el equipo de laboratoria (Gonzalo, Ale, Gaby) en la cual se pudo concluir:
+1.	Era innecesario que el header tenga la opción de iniciar sesión
+2.	La parte de comparar debería ser más resaltante ya que es la opción que nuestros usuarios usarían más.
+3.	Quitamos el botón de comparar de esa zona pues daba la impresión de que se podían seleccionar las empresas para luego comparar.
+4.	El botón que redirecciona a la página donde puedes ver información de compra se encontraba al último de todo, lo cual no se les hacia cómodo.
+5.	No quedaba claro la cantidad de comentarios que podían visualizar por lo cual se puso la barra de desplazamiento.
+6.	No les quedaba claro como iniciar sesión.
+7.	Querían comparar más de 2.
 
 Después de modificar el _Paper Prototyping_ con las mejoras solicitadas por los reclutados y en previa coordinación con las integrantes del equipo, se realizó un segundo _Paper Prototyping_:
 ![Segundo Paper Prototyping](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/30.jpg)
@@ -274,6 +289,13 @@ Después de modificar el _Paper Prototyping_ con las mejoras solicitadas por los
 ![Segundo Paper Prototyping](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/18.jpg)
 ![Segundo Paper Prototyping](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/20.jpg)
 ![Segundo Paper Prototyping](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/22.jpg)
+
+#### TERCER TESTING:
+Se realizó este testeo con David Vidal (viajero frecuente) y ……. Con lo cual se pudo concluir:
+1.	Creyeron que la parte de comparar es lo más importante de esta web por lo cual esta debería ser más importante que solo la información.
+2.	Quisiera que cuando se hace la búsqueda se pueda comparar directamente (es decir seleccionar desde las empresas que te muestra).
+3.	No usaría la web si no tuviera esta opción de comparar, pues información y recomendaciones también se encuentran en Facebook.
+
 ### DEBRIEFING:
 
 Decidan cuáles serán los siguiente pasos:
