@@ -213,9 +213,61 @@ Por lo tanto, apoyándonos en el mapa de afinidad en el cual agrupamos todos est
 [Content Prototyping](https://docs.google.com/presentation/d/1RiaopXo3EmxxdSaE4hPKQCHLNa8ou5eNxguGarq-6kc/edit?usp=sharing)
 ![Content Prototyping](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/cprototyping.png)
 
-### PAPER PROTOTYPING & TESTING:
-* Realizar paper prototypes de su MVP
-* Planear testing de los prototipos
-* Realizar sesiones de testing
-* Iterar
-* Testear nuevamente
+### PAPER PROTOTYPING & USER TESTING:
+
+En esta etapa de diseño se siguieron estos pasos:
+
+* **Realizar paper prototypes de su MVP**
+- Cada integrante realizó un modelo del MVP,con ayuda del _Content Prototyping_.
+
+Nataly Cortez
+![Prototyping]()
+
+Karina Buhezo
+![Prototyping]()
+
+Andrea Encarnación
+![Prototyping]()
+
+Isabel Chávez
+![Prototyping]()
+
+Shannon Rivera
+![Prototyping]()
+
+Ada Yajahuanca
+![Prototyping]()
+
+- Después de esto, el grupo analizó cada prototipo y se rescataron los aportes para que el _Paper Prototyping_ tenga un contenido adecuado y con coherencia respecto al _Content Prottyping_.Se diseñó un nuevo _Paper Prototyping_:
+![Primer Paper Prototyping]()
+
+* **Planear testing de los prototipos**
+
+* **Realizar sesiones de testing**
+
+Cada integrante realizó un _Testing_ para obtener feedbacks distintos y que puedan aportar a la mejora del producto.
+![Testing Session]()
+
+* **Iterar**
+
+Después de cada _Testing_ surgían observaciones de los reclutados para la entrevista,y esto nos hacía querer modificar ciertas partes del producto para poder garantizar una mejor experiencia al momento de usar el producto 
+
+
+* **Testear nuevamente**
+
+Después de modificar el _Paper Prototyping_ con las mejoras solicitadas por los reclutados y en previa coordinación con las integrantes del equipo, se realizó un segundo _Paper Prototyping_:
+![Segundo Paper Prototyping]()
+
+### DEBRIEFING:
+
+Decidan cuáles serán los siguiente pasos:
+
+_a.¿Mejorar el prototipo para hacer nuevas pruebas?_
+
+_b.¿Crear un nuevo prototipo?_
+
+>Optamos por la ópcion _"a"_,debido a que el flujo para usar el producto fue comprensible.
+
+
+
+
