@@ -208,6 +208,8 @@ Por lo tanto, apoyándonos en el mapa de afinidad en el cual agrupamos todos est
 ### PRIORIZACION:
 ![Priorización](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/priorizacion.png)
 
+### STORYBOARD:
+![Story board](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/storyboard.jpg)
 
 ### CONTENT PROTOTYPING:
 [Content Prototyping](https://docs.google.com/presentation/d/1RiaopXo3EmxxdSaE4hPKQCHLNa8ou5eNxguGarq-6kc/edit?usp=sharing)
@@ -223,17 +225,14 @@ En esta etapa de diseño se siguieron estos pasos:
 Nataly Cortez
 ![Prototyping](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/natsprototyping.jpg)
 
-Karina Buhezo
-![Prototyping]()
-
 Andrea Encarnación
-![Prototyping]()
+![Prototyping](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/andreaprototyping.jpeg)
 
 Isabel Chávez
-![Prototyping]()
+![Prototyping](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/isaprototyping.jpg)
 
 Shannon Rivera
-![Prototyping]()
+![Prototyping](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/shanonprototyping.png)
 
 Ada Yajahuanca
 ![Prototyping](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/adaprototyping.jpg)
