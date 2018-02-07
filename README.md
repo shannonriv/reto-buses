@@ -267,7 +267,3 @@ _a.¿Mejorar el prototipo para hacer nuevas pruebas?_
 _b.¿Crear un nuevo prototipo?_
 
 >Optamos por la ópcion _"a"_,debido a que el flujo para usar el producto fue comprensible.
-
-
-
-
