@@ -10,9 +10,9 @@
 * Ada Yajahuanca
 
 ### EL RETO:
-Nos ha contactado Catalina una emprendedora viajera con una idea de negocio. Durante sus últimas vacaciones Catalina estuvo viajando por todo latinoamérica. Durante estos viajes Catalina tuvo que tomar muchos buses de todo tipo para llegar a ver los paisajes más lindos del continente. 
-Durante sus viajes Catalina se dio cuenta que existen aún muchas oportunidades para mejorar la experiencia de todos los usuarios de este tipo de transporte: horarios, embarques, desembarques, compra de tickets en los terminales, compra de tickets online, cancelaciones, cambios de pasajes, etc. 
-Adicionalmente, Catalina se dio cuenta que todas las plataformas de venta de tickets de bus tienen cosas por mejorar en Chile, Perú y México. 
+Nos ha contactado Catalina una emprendedora viajera con una idea de negocio. Durante sus últimas vacaciones Catalina estuvo viajando por todo latinoamérica. Durante estos viajes Catalina tuvo que tomar muchos buses de todo tipo para llegar a ver los paisajes más lindos del continente.
+Durante sus viajes Catalina se dio cuenta que existen aún muchas oportunidades para mejorar la experiencia de todos los usuarios de este tipo de transporte: horarios, embarques, desembarques, compra de tickets en los terminales, compra de tickets online, cancelaciones, cambios de pasajes, etc.
+Adicionalmente, Catalina se dio cuenta que todas las plataformas de venta de tickets de bus tienen cosas por mejorar en Chile, Perú y México.
 Luego de vivir todo esto, Catalina está pensando en emprender en este sector. Para ello ha contratado a tu squad para que la ayude a investigar más sobre los usuarios de este tipo de transportes y para que definan y prueben un MVP.
 Con tu asesoría, ella podrá sustentar su idea de negocio a un grupo de inversión y así obtener el financiamiento necesario para emprender su negocio y mejorar la experiencia en este rubro.
 
@@ -25,8 +25,8 @@ _**HERRAMIENTAS**_
 ## NUESTRO PROCESO UX :
 ![proceso](https://raw.githubusercontent.com/adayc/reto-buses/nat-branch/assets/images/proceso.png)
 
-## Descubrimiento e investigación: 
-![entrevista](https://raw.githubusercontent.com/adayc/reto-buses/nat-branch/assets/images/encuesta1.jpg) ![entrevista](https://raw.githubusercontent.com/adayc/reto-buses/nat-branch/assets/images/encuesta2.jpg) 
+## Descubrimiento e investigación:
+![entrevista](https://raw.githubusercontent.com/adayc/reto-buses/nat-branch/assets/images/encuesta1.jpg) ![entrevista](https://raw.githubusercontent.com/adayc/reto-buses/nat-branch/assets/images/encuesta2.jpg)
 
 _**Observación contextual :**_
 Se realizó una observación contextual en  los terminales de autobuses y áreas concurridas para conocer el comportamiento de los usuarios, aqui se pudo descubrir lo siguiente:
@@ -36,7 +36,7 @@ Se realizó una observación contextual en  los terminales de autobuses y áreas
 
 _**Encuestas:**_
 * Encuestas presenciales y [online](https://docs.google.com/forms/d/1spEVI_2zr-XjkvmiQ4f6wRZsXpssyU4BUgmFTvxz60I/viewform?edit_requested=true) en terminales de bus y lugares concurridos
-Se realizó una encuesta de 4 minutos a las personas con las siguientes preguntas: 
+Se realizó una encuesta de 4 minutos a las personas con las siguientes preguntas:
 
 _**País:**_
 
@@ -63,7 +63,7 @@ _**¿Qué busca usted en un servicio de bus?**_
 _**¿Qué sugerencia le daría usted a las empresas de bus para mejorar su experiencia de viaje?**_
 
 
-![formulario](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/formulario1.png) 
+![formulario](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/formulario1.png)
 
 * Opiniones en foros de las páginas:
 ![foro](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/foro.png)
@@ -86,13 +86,13 @@ _**AFFINITY MAPPING:**_
 
 7.	Por último, discutimos como quedan los grupos y los elementos correspondientes al tema.
 
-![diagrama](https://raw.githubusercontent.com/adayc/reto-buses/nat-branch/assets/images/diagrama.jpg) 
+![diagrama](https://raw.githubusercontent.com/adayc/reto-buses/nat-branch/assets/images/diagrama.jpg)
 
 **Temas encontrados:**
 
 * Seguridad
 
-"Que desaparezcan que haya solo aviones . Más seguridad en robos , pasajeros en la carretera . 
+"Que desaparezcan que haya solo aviones . Más seguridad en robos , pasajeros en la carretera .
 Paradas inesperadas."
 
 * Horarios y puntualidad
@@ -294,6 +294,14 @@ Se realizó este testeo con David Vidal (viajero frecuente) y ……. Con lo cua
 1.	Creyeron que la parte de comparar es lo más importante de esta web por lo cual esta debería ser más importante que solo la información.
 2.	Quisiera que cuando se hace la búsqueda se pueda comparar directamente (es decir seleccionar desde las empresas que te muestra).
 3.	No usaría la web si no tuviera esta opción de comparar, pues información y recomendaciones también se encuentran en Facebook.
+
+### PRESENTACIÓN:
+
+Se realiza presentación con el flujo del trabajo desarrollado.
+
+[Presentación Final](https://docs.google.com/presentation/d/1yRGp3TjwR7x2dM53hoJHe_-OIhtQG-dCog9ebjoAkeM/edit?usp=sharin)
+
+![Presentación](/assets/images/present-final.png)
 
 ### DEBRIEFING:
 
