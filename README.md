@@ -209,11 +209,20 @@ Por lo tanto, apoyándonos en el mapa de afinidad en el cual agrupamos todos est
 ![Priorización](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/priorizacion.png)
 
 ### STORYBOARD:
-![Story board](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/storyboard.jpg)
+![Story board](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/storyboardtexto.JPG)
+![Story board](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/storyboard.JPG)
 
 ### CONTENT PROTOTYPING:
 [Content Prototyping](https://docs.google.com/presentation/d/1RiaopXo3EmxxdSaE4hPKQCHLNa8ou5eNxguGarq-6kc/edit?usp=sharing)
 ![Content Prototyping](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/cprototyping.png)
+
+* **Versión final**
+![Content Prototyping](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/content1.jpg)
+![Content Prototyping](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/content2.jpg)
+![Content Prototyping](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/content3.jpg)
+![Content Prototyping](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/content4.jpg)
+![Content Prototyping](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/content5.jpg)
+![Content Prototyping](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/content6.jpg)
 
 ### PAPER PROTOTYPING & USER TESTING:
 
@@ -271,6 +280,7 @@ Después de este _Testing_ surgían observaciones de los reclutados para la entr
 
 #### SEGUNDO TESTING:
 Se hizo una segunda iteración esta vez con el equipo de laboratoria (Gonzalo, Ale, Gaby) en la cual se pudo concluir:
+Link del testeo : https://youtu.be/oiR28LKgUTs
 1.	Era innecesario que el header tenga la opción de iniciar sesión
 2.	La parte de comparar debería ser más resaltante ya que es la opción que nuestros usuarios usarían más.
 3.	Quitamos el botón de comparar de esa zona pues daba la impresión de que se podían seleccionar las empresas para luego comparar.
@@ -295,6 +305,14 @@ Se realizó este testeo con David Vidal (viajero frecuente) y ……. Con lo cua
 2.	Quisiera que cuando se hace la búsqueda se pueda comparar directamente (es decir seleccionar desde las empresas que te muestra).
 3.	No usaría la web si no tuviera esta opción de comparar, pues información y recomendaciones también se encuentran en Facebook.
 
+### DEMO FINAL 
+![Paper Prototyping](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/demo1.jpg)
+![Paper Prototyping](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/demo2.jpg)
+![Paper Prototyping](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/demo3.jpg)
+![Paper Prototyping](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/demo4.jpg)
+![Paper Prototyping](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/demo5.jpg)
+![Paper Prototyping](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/demo6.jpg)
+![Paper Prototyping](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/demo7.jpg)
 ### PRESENTACIÓN:
 
 Se realiza presentación con el flujo del trabajo desarrollado.
