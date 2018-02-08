@@ -209,7 +209,7 @@ Por lo tanto, apoyándonos en el mapa de afinidad en el cual agrupamos todos est
 ![Priorización](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/priorizacion.png)
 
 ### STORYBOARD:
-![Story board](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/storyboardtexto.JPG)
+![Story board](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/storyboardtexto.jpg)
 ![Story board](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/storyboard.JPG)
 
 ### CONTENT PROTOTYPING:
