@@ -306,13 +306,13 @@ Se realizó este testeo con David Vidal (viajero frecuente) y ……. Con lo cua
 3.	No usaría la web si no tuviera esta opción de comparar, pues información y recomendaciones también se encuentran en Facebook.
 
 ### DEMO FINAL 
-![Paper Prototyping](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/demo1.jpg)
-![Paper Prototyping](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/demo2.jpg)
-![Paper Prototyping](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/demo3.jpg)
-![Paper Prototyping](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/demo4.jpg)
-![Paper Prototyping](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/demo5.jpg)
-![Paper Prototyping](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/demo6.jpg)
-![Paper Prototyping](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/demo7.jpg)
+![Paper Prototyping](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/demo1.JPG)
+![Paper Prototyping](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/demo2.JPG)
+![Paper Prototyping](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/demo3.JPG)
+![Paper Prototyping](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/demo4.JPG)
+![Paper Prototyping](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/demo5.JPG)
+![Paper Prototyping](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/demo6.JPG)
+![Paper Prototyping](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/demo7.JPG)
 ### PRESENTACIÓN:
 
 Se realiza presentación con el flujo del trabajo desarrollado.
