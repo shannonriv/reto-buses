@@ -279,7 +279,7 @@ Después de este _Testing_ surgían observaciones de los reclutados para la entr
 ![Iterar](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/32.jpg)
 
 #### SEGUNDO TESTING:
-Se hizo una segunda iteración esta vez con el equipo de laboratoria (Gonzalo, Ale, Gaby) en la cual se pudo concluir:
+Se hizo una segunda iteración esta vez con el equipo de laboratoria (Gonzalo, Alejandra, Gaby) en la cual se pudo concluir:
 
 1.	Era innecesario que el header tenga la opción de iniciar sesión
 2.	La parte de comparar debería ser más resaltante ya que es la opción que nuestros usuarios usarían más.
@@ -289,7 +289,9 @@ Se hizo una segunda iteración esta vez con el equipo de laboratoria (Gonzalo, A
 6.	No les quedaba claro como iniciar sesión.
 7.	Querían comparar más de 2.
 
-Link del testeo : https://youtu.be/oiR28LKgUTs
+Link del testeo Alejandra Ramírez: https://youtu.be/oiR28LKgUTs
+
+Link del testeo Gabriela Segura: https://youtu.be/nzMqw5uag5E
 
 Después de modificar el _Paper Prototyping_ con las mejoras solicitadas por los reclutados y en previa coordinación con las integrantes del equipo, se realizó un segundo _Paper Prototyping_:
 ![Segundo Paper Prototyping](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/30.jpg)
@@ -308,12 +310,24 @@ Se realizó este testeo con David Vidal (viajero frecuente) y ……. Con lo cua
 3.	No usaría la web si no tuviera esta opción de comparar, pues información y recomendaciones también se encuentran en Facebook.
 
 ### DEMO FINAL 
+1. Tenemos una pantalla inicial en la que tenemos la frase que engloba el objetivo de la web.
+
 ![Paper Prototyping](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/demo1.JPG)
+
+2. En las cajas de texto ingresamos el lugar de origen (¿Dónde estamos?) y el lugar de destino (¿A dónde vamos?). 
+A continuación saldrán la lista de empresas que cuentan con buses disponibles hacia el destino elegido.
 ![Paper Prototyping](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/demo2.JPG)
+3. Luego de darle clic a la empresa elegida, podemos elegir la clase en la que deseamos viajar. 
+En este caso hemos seleccionado la clase regular.
+Esta ventana mostrará servicios dentro del bus, horarios de salida, duración del viaje, imágenes del bus y un mapa con la ruta con sus respectivas paradas.
 ![Paper Prototyping](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/demo3.JPG)
+4. En el caso que le deseemos comentar acerca del servicio, iniciamos sesión o nos registramos.
 ![Paper Prototyping](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/demo4.JPG)
+5. Si deseamos comparar empresas y servicios le damos clic al botón "Comparar".
 ![Paper Prototyping](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/demo5.JPG)
+6. Se nos presentará una ventana en la que elegiremos el origen y el destino.
 ![Paper Prototyping](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/demo6.JPG)
+7. Aparecerá una ventana a modo de cuadro comparativo con las caracteristicas de cada empresa.
 ![Paper Prototyping](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/demo7.JPG)
 ### PRESENTACIÓN:
 
