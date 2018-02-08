@@ -325,9 +325,9 @@ Esta ventana mostrará servicios dentro del bus, horarios de salida, duración d
 ![Paper Prototyping](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/demo4.JPG)
 5. Si deseamos comparar empresas y servicios le damos clic al botón "Comparar".
 ![Paper Prototyping](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/demo5.JPG)
-6. Se nos presentará una ventana en la que elegiremos el origen y el destino.
+6. Se nos presentará una ventana en la que escribiremos el origen y el destino.
 ![Paper Prototyping](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/demo6.JPG)
-7. Aparecerá una ventana a modo de cuadro comparativo con las caracteristicas de cada empresa.
+7. Aparecerá una ventana a modo de cuadro comparativo con las caracteristicas de cada empresa y en el caso que deseemos comprar el pasaje podemos presionar el botón "Compra aquí" que nos redirigirá a la página web de compra de la empresa elegida.
 ![Paper Prototyping](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/demo7.JPG)
 ### PRESENTACIÓN:
 
