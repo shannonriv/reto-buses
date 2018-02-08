@@ -217,12 +217,12 @@ Por lo tanto, apoyándonos en el mapa de afinidad en el cual agrupamos todos est
 ![Content Prototyping](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/cprototyping.png)
 
 * **Versión final**
-![Content Prototyping](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/content1.jpg)
-![Content Prototyping](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/content2.jpg)
-![Content Prototyping](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/content3.jpg)
-![Content Prototyping](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/content4.jpg)
-![Content Prototyping](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/content5.jpg)
-![Content Prototyping](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/content6.jpg)
+![Content Prototyping](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/content1.JPG)
+![Content Prototyping](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/content2.JPG)
+![Content Prototyping](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/content3.JPG)
+![Content Prototyping](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/content4.JPG)
+![Content Prototyping](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/content5.JPG)
+![Content Prototyping](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/content6.JPG)
 
 ### PAPER PROTOTYPING & USER TESTING:
 
