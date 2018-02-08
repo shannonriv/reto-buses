@@ -280,7 +280,7 @@ Después de este _Testing_ surgían observaciones de los reclutados para la entr
 
 #### SEGUNDO TESTING:
 Se hizo una segunda iteración esta vez con el equipo de laboratoria (Gonzalo, Ale, Gaby) en la cual se pudo concluir:
-Link del testeo : https://youtu.be/oiR28LKgUTs
+
 1.	Era innecesario que el header tenga la opción de iniciar sesión
 2.	La parte de comparar debería ser más resaltante ya que es la opción que nuestros usuarios usarían más.
 3.	Quitamos el botón de comparar de esa zona pues daba la impresión de que se podían seleccionar las empresas para luego comparar.
@@ -288,6 +288,8 @@ Link del testeo : https://youtu.be/oiR28LKgUTs
 5.	No quedaba claro la cantidad de comentarios que podían visualizar por lo cual se puso la barra de desplazamiento.
 6.	No les quedaba claro como iniciar sesión.
 7.	Querían comparar más de 2.
+
+Link del testeo : https://youtu.be/oiR28LKgUTs
 
 Después de modificar el _Paper Prototyping_ con las mejoras solicitadas por los reclutados y en previa coordinación con las integrantes del equipo, se realizó un segundo _Paper Prototyping_:
 ![Segundo Paper Prototyping](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/30.jpg)
