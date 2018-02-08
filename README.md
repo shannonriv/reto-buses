@@ -257,7 +257,7 @@ Ada Yajahuanca
 
 -Reclutamos usuarios que sean relevantes para el producto.
 
--Se elabora un _Script_ para dar detalles de lo que le diremos al usuario.
+-Se elabora un _Speach_ para dar detalles de lo que le diremos al usuario.
 
 -Grabamos la sesión para analizar el feedback de los usuarios.
 
