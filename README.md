@@ -217,10 +217,10 @@ Por lo tanto, apoyándonos en el mapa de afinidad en el cual agrupamos todos est
 ## Las vacaciones soñadas
 Emilia es una persona a la cual le gustaría conocer todos los rincones del Perú, ella ahorra la mayor parte de sus ingresos para lograrlo.
 
-Cierto día ella recibe una llamada del Gocta Lodge Hotel indicándole que ha ganado un premio. 
+Cierto día ella recibe una llamada del Gocta Lodge Hotel indicándole que ha ganado un premio.
 Su interlocutor le dijo: “Srta. Emilia usted se ha hecho acreedora a nuestro servicio de hospedaje 5 estrellas en nuestras instalaciones, el hospedaje incluye: 3 días y 2 noches en una suite matrimonial para usted y un acompañante. Adicional a esto le otorgamos un tour completo a todos los atractivos turísticos del lugar, incluyendo la catarata de Gocta”
 Ella responde anonadada: ¡Gracias!  ¿Cómo hago para reclamar el premio? ¿Cuáles son las fechas disponibles?
-A lo que el interlocutor le responde que hay ciertas fechas disponibles y la más próxima es del 26 al 29 de marzo. En caso desee confirmar la reserva debe enviar los documentos de identidad de su acompañante y el suyo para realizarla. Por último, le indica que deben llegar al lugar las dos personas para que le otorguen el premio. 
+A lo que el interlocutor le responde que hay ciertas fechas disponibles y la más próxima es del 26 al 29 de marzo. En caso desee confirmar la reserva debe enviar los documentos de identidad de su acompañante y el suyo para realizarla. Por último, le indica que deben llegar al lugar las dos personas para que le otorguen el premio.
 Emilia confirma las fechas a su interlocutor y esa misma tarde se comunica con su mejor amiga para proponerle que sea su acompañante.
 
 Dajiana, su amiga le indica que ella sale de vacaciones el 25 por lo tanto que demorará un día en llegar al hotel porque el viaje demora usualmente 48 horas.
@@ -341,15 +341,15 @@ Se realizó este testeo con David Vidal (viajero frecuente) y ……. Con lo cua
 2.	Quisiera que cuando se hace la búsqueda se pueda comparar directamente (es decir seleccionar desde las empresas que te muestra).
 3.	No usaría la web si no tuviera esta opción de comparar, pues información y recomendaciones también se encuentran en Facebook.
 
-### DEMO FINAL 
+### DEMO FINAL
 1. Tenemos una pantalla inicial en la que tenemos la frase que engloba el objetivo de la web.
 
 ![Paper Prototyping](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/demo1.JPG)
 
-2. En las cajas de texto ingresamos el lugar de origen (¿Dónde estamos?) y el lugar de destino (¿A dónde vamos?). 
+2. En las cajas de texto ingresamos el lugar de origen (¿Dónde estamos?) y el lugar de destino (¿A dónde vamos?).
 A continuación saldrán la lista de empresas que cuentan con buses disponibles hacia el destino elegido.
 ![Paper Prototyping](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/demo2.JPG)
-3. Luego de darle clic a la empresa elegida, podemos elegir la clase en la que deseamos viajar. 
+3. Luego de darle clic a la empresa elegida, podemos elegir la clase en la que deseamos viajar.
 En este caso hemos seleccionado la clase regular.
 Esta ventana mostrará servicios dentro del bus, horarios de salida, duración del viaje, imágenes del bus y un mapa con la ruta con sus respectivas paradas.
 ![Paper Prototyping](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/demo3.JPG)
@@ -378,3 +378,9 @@ _a.¿Mejorar el prototipo para hacer nuevas pruebas?_
 _b.¿Crear un nuevo prototipo?_
 
 >Optamos por la ópcion _"a"_,debido a que el flujo para usar el producto fue comprensible.
+
+#### User Flow
+
+Se realiza flujo a nivel usuario en interacción de producto.
+
+![User Flow](assets/images/user-flow.png)
