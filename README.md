@@ -162,7 +162,7 @@ Paradas innecesarias
 ### CUSTOMER JOURNEY MAPS:
 
 **-Usando el producto**
-![CUSTOMER JOURNEY MAPS]()
+![CUSTOMER JOURNEY MAPS](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/cjmap.JPG)
 
 ### PROBLEM STATEMENTS:
 ![Problem statement](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/pstatements.JPG)
