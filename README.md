@@ -147,7 +147,7 @@ Por lo tanto, apoyándonos en el mapa de afinidad en el cual agrupamos todos est
 **-Usando el producto**
 ![CUSTOMER JOURNEY MAPS](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/cjmap3.jpg)
 
-![CUSTOMER JOURNEY MAPS](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/cjmap4.jpg)
+![CUSTOMER JOURNEY MAPS](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/cjmap4.JPG)
 
 ### PROBLEM STATEMENTS:
 ![Problem statement](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/pstatements.JPG)
