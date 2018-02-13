@@ -159,6 +159,10 @@ Servicios higiénicos sucios
 Pésima atención en el bus
 Paradas innecesarias
 
+### CUSTOMER JOURNEY MAPS:
+
+**-Usando el producto**
+![CUSTOMER JOURNEY MAPS]()
 
 ### PROBLEM STATEMENTS:
 ![Problem statement](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/pstatements.JPG)
