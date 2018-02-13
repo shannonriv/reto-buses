@@ -238,7 +238,7 @@ Paradas innecesarias
 ![Story board](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/storyboard.JPG)
 
 
-### STORYTELLING :
+### STORYTELLING USER PERSONA PRIMARIO
 ## Las vacaciones soñadas
 Emilia es una persona a la cual le gustaría conocer todos los rincones del Perú, ella ahorra la mayor parte de sus ingresos para lograrlo.
 
@@ -267,6 +267,16 @@ Dajiana descargo la aplicación y encontró un servicio que duraba 15 horas en l
 Al abordar el bús llamo a Emilia para confirmarle que estaba a bordo y que llegaría a tiempo al hotel.
 El 26 de marzo las dos arribaron en el terminal de Chachapoyas, al verse se dieron un abrazo fraterno y a bordo de un taxi se dirigieron al hotel dispuestas a hacer de estas vacaciones, las mejores de su vida.
 
+### STORYTELLING USER PERSONA SECUNDARIO
+## Don Alonso y un viaje especial
+
+Una mañana de otoño, Don Alonso se sentía muy solo y nostálgico en su casa de Lima. En eso pensó en ir a visitar a sus familiares en Arequipa.
+Hacía muchos años que no viajaba y por su avanzada edad era mucho esfuerzo recorrer las agencias para preguntar precios y horarios de las salidas de los buses.
+Don Alonso se preguntaba cómo podría averiguar lo que necesitaba sin salir de casa, entonces fue a pedir ayuda a su nieto mayor, Miguel.
+Miguel es un capo de la web, así que empezó a navegar y buscar informacion hasta que encontró muchas páginas que ofrecían los servicios y los precios pero no sabia cual podría ser la mejor opción para su abuelito.
+En eso encontro una pagina en particular que le permitía comparar estos servicios entre empresas y sus respectivas tarifas e itinerarios de destino hacia Arequipa.
+ Luego de un par de clic, Miguel se decidió por una línea de bus muy cómoda y segura para su abuelito e incluso pudo hacer una reserva para el.
+Así al fin, Don Alonso pudo viajar con comodidad. Al llegar a su destino se sintió alegre y lleno de satisfacción por el viaje y así poder disfrutar de un reencuentro con sus familiares otra vez.
 
 ### CONTENT PROTOTYPING:
 [Content Prototyping](https://docs.google.com/presentation/d/1RiaopXo3EmxxdSaE4hPKQCHLNa8ou5eNxguGarq-6kc/edit?usp=sharing)
