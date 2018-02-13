@@ -139,6 +139,27 @@ Por lo tanto, apoyándonos en el mapa de afinidad en el cual agrupamos todos est
 ![User Persona](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/userperson-02.png)
 ![User Persona](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/userperson-03.png)
 
+**Served persona**
+*Nombre: Víctor
+*Edad:72 años
+*Estado Civil: Casado 
+*Ocupación: Padre de familia
+*Vive en puente piedra
+*Frase: “Generalmente cuando viajo mis hijos me ayudan a buscar información, ellos se encargan de todo “
+*Escenario
+“Viaja constantemente para visitar a su familia. Por ser un adulto mayor no se familiariza con el uso de una aplicación web, por lo tanto, sus hijos se encargan de comprar sus pasajes, planificar sus horarios de llegada y salida.
+
+*Necesidades y metas
+Llegar a tiempo para visitar a su familia
+Comodidad en el bus 
+Seguridad en las paradas
+
+*Frustraciones 
+Servicios higiénicos sucios
+Pésima atención en el bus
+Paradas innecesarias
+
+
 ### PROBLEM STATEMENTS:
 ![Problem statement](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/pstatements.JPG)
 
