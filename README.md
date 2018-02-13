@@ -140,13 +140,13 @@ Por lo tanto, apoyándonos en el mapa de afinidad en el cual agrupamos todos est
 ![User Persona](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/userperson-03.png)
 
 **Served persona**
-![User Persona](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/userperson-04.png)
+![User Persona](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/userperson-04.jpg)
 
 ### CUSTOMER JOURNEY MAPS:
 
 **-Usando el producto**
 ![CUSTOMER JOURNEY MAPS](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/cjmap2.JPG)
-![CUSTOMER JOURNEY MAPS](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/cjmap3.JPG)
+![CUSTOMER JOURNEY MAPS](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/cjmap3.jpg)
 
 ### PROBLEM STATEMENTS:
 ![Problem statement](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/pstatements.JPG)
