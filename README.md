@@ -216,23 +216,29 @@ Por lo tanto, apoyándonos en el mapa de afinidad en el cual agrupamos todos est
 ### STORYTELLING :
 ## Las vacaciones soñadas
 Emilia es una persona a la cual le gustaría conocer todos los rincones del Perú, ella ahorra la mayor parte de sus ingresos para lograrlo.
+
 Cierto día ella recibe una llamada del Gocta Lodge Hotel indicándole que ha ganado un premio. 
 Su interlocutor le dijo: “Srta. Emilia usted se ha hecho acreedora a nuestro servicio de hospedaje 5 estrellas en nuestras instalaciones, el hospedaje incluye: 3 días y 2 noches en una suite matrimonial para usted y un acompañante. Adicional a esto le otorgamos un tour completo a todos los atractivos turísticos del lugar, incluyendo la catarata de Gocta”
 Ella responde anonadada: ¡Gracias!  ¿Cómo hago para reclamar el premio? ¿Cuáles son las fechas disponibles?
 A lo que el interlocutor le responde que hay ciertas fechas disponibles y la más próxima es del 26 al 29 de marzo. En caso desee confirmar la reserva debe enviar los documentos de identidad de su acompañante y el suyo para realizarla. Por último, le indica que deben llegar al lugar las dos personas para que le otorguen el premio. 
 Emilia confirma las fechas a su interlocutor y esa misma tarde se comunica con su mejor amiga para proponerle que sea su acompañante.
+
 Dajiana, su amiga le indica que ella sale de vacaciones el 25 por lo tanto que demorará un día en llegar al hotel porque el viaje demora usualmente 48 horas.
 En ese momento Emilia se inquieta debido a que es necesario que las dos se encuentren en el hotel para que el premio sea válido.
 En ese momento Dajiana le indica que irá manejando su auto para que la duración del viaje disminuya considerablemente y llegar a tiempo al lugar.
 Emilia se tranquiliza al obtener esa respuesta por parte de su amiga realiza las coordinaciones respectivas para pedir sus vacaciones en las fechas del 26 al 29 de marzo.
+
 El 24 de marzo Emilia parte rumbo a Chachapoyas que es donde se encuentra el hotel, en la mitad del viaje se comunica con Dajiana para saber si ya había partido hacia Chachapoyas en su auto.
 Dajiana le responde con tristeza indicándole que su auto se encuentra en el taller por un desperfecto en los frenos y le comunica que es muy probable que no llegue en la fecha acordada.
 A Emilia la invade la frustración e impotencia en ese momento y le dice que trate de hacer todo lo posible por llegar en la fecha.
+
 Luego de finalizar la llamada Emilia por inercia comienza a llamar a varias empresas de transporte en bus para encontrar algún servicio cuyo recorrido tenga una duración menor a 2 días y que no incluya ninguna parada en su ruta.
 Luego de más de una decena de llamadas sin éxito, Emilia sentía que todas las posibilidades de sus vacaciones soñadas con su mejor amiga se estaban desvaneciendo y estaba cayendo en una profunda tristeza.
+
 En ese momento el compañero de asiento de Emilia, el cual había presenciado toda la situación y con el temor de ser acusado de entrometido le dice a Emilia que trate de usar una aplicación que le permite saber las rutas y paradas de las diversas empresas de transporte, así como la duración del viaje. Él la usaba para programar sus viajes de negocios
 Instantáneamente los ojos de Emilia se iluminaron de esperanza, sentía que sus vacaciones soñadas aún podrían realizarse y llamó en el acto a su Dajiana. Luego de eso agradeció a su acompañante por la recomendación que salvó sus vacaciones.
 Dajiana descargo la aplicación y encontró un servicio que duraba 15 horas en llegar a Chachapoyas cogió sus maletas y fue al terminal.
+
 Al abordar el bús llamo a Emilia para confirmarle que estaba a bordo y que llegaría a tiempo al hotel.
 El 26 de marzo las dos arribaron en el terminal de Chachapoyas, al verse se dieron un abrazo fraterno y a bordo de un taxi se dirigieron al hotel dispuestas a hacer de estas vacaciones, las mejores de su vida.
 
