@@ -404,3 +404,9 @@ _b.¿Crear un nuevo prototipo?_
 Se realiza flujo a nivel usuario en interacción de producto.
 
 ![User Flow](assets/images/user-flow.png)
+
+### PROTOTYPING
+
+Se utiliza FIGMA
+
+![Login](assets/images/login-buses.png)
