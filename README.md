@@ -11,7 +11,7 @@
 
 ### EL RETO:
 Nos ha contactado Catalina una emprendedora viajera con una idea de negocio. Durante sus últimas vacaciones Catalina estuvo viajando por todo latinoamérica. Durante estos viajes Catalina tuvo que tomar muchos buses de todo tipo para llegar a ver los paisajes más lindos del continente.
-Durante sus viajes Catalina se dio cuenta que existen aún muchas oportunidades para mejorar la experiencia de todos los usuarios de este tipo de transporte: horarios, embarques, desembarques, compra de tickets en los terminales, compra de tickets online, cancelaciones, cambios de pasajes, etc.
+Durante sus viajes Catalina se dió cuenta que existen aún muchas oportunidades para mejorar la experiencia de todos los usuarios de este tipo de transporte: horarios, embarques, desembarques, compra de tickets en los terminales, compra de tickets online, cancelaciones, cambios de pasajes, etc.
 Adicionalmente, Catalina se dio cuenta que todas las plataformas de venta de tickets de bus tienen cosas por mejorar en Chile, Perú y México.
 Luego de vivir todo esto, Catalina está pensando en emprender en este sector. Para ello ha contratado a tu squad para que la ayude a investigar más sobre los usuarios de este tipo de transportes y para que definan y prueben un MVP.
 Con tu asesoría, ella podrá sustentar su idea de negocio a un grupo de inversión y así obtener el financiamiento necesario para emprender su negocio y mejorar la experiencia en este rubro.
@@ -19,17 +19,25 @@ Con tu asesoría, ella podrá sustentar su idea de negocio a un grupo de inversi
 ### PLANIFICACIÓN:
 
 _**HERRAMIENTAS**_
+
 *[Trello](https://trello.com/b/AmqGLK3O/nueva-experiencia-en-empresas-de-buses)
+
 ![Trello](https://raw.githubusercontent.com/adayc/reto-buses/nat-branch/assets/images/trello.png)
 
 ## NUESTRO PROCESO UX :
+
 ![proceso](https://raw.githubusercontent.com/adayc/reto-buses/nat-branch/assets/images/proceso.png)
 
 ## Descubrimiento e investigación:
-![entrevista](https://raw.githubusercontent.com/adayc/reto-buses/nat-branch/assets/images/encuesta1.jpg) ![entrevista](https://raw.githubusercontent.com/adayc/reto-buses/nat-branch/assets/images/encuesta2.jpg)
 
-_**Observación contextual :**_
+![entrevista](https://raw.githubusercontent.com/adayc/reto-buses/nat-branch/assets/images/encuesta1.jpg)
+
+![entrevista](https://raw.githubusercontent.com/adayc/reto-buses/nat-branch/assets/images/encuesta2.jpg)
+
+_**Observación contextual:**_
+
 Se realizó una observación contextual en  los terminales de autobuses y áreas concurridas para conocer el comportamiento de los usuarios, aqui se pudo descubrir lo siguiente:
+
 * Los usuarios desean que se les apoye en el embarque y desembarque de equipaje, buscan personal para eso.
 * Mostraban incomodidad e impaciencia por las demoras  en los buses.
 * Los usuarios escuchaban atentos a los parlantes para evitar perder el bus.
@@ -76,9 +84,9 @@ _**AFFINITY MAPPING:**_
 
 2.	Cada miembro del grupo analizó las ideas en tarjetas de forma individual.
 
-3.	Luego del análisis de ideas, se recolectaron las tarjetas para que estas sean expuestas aleatoriamente.
+3.	Luego del análisis de ideas, se recolectaron las tarjetas para que éstas sean expuestas aleatoriamente.
 
-4.	Agrupamos  las ideas por “afinidad mutua”.
+4.	Agrupamos las ideas por “afinidad mutua”.
 
 5.	En cada grupo de ideas, colocamos un título en común mediante una discusión en grupo.
 
@@ -125,11 +133,13 @@ Paradas inesperadas."
 
 * Compra presencial
 
+"No confío en compras online"
+
 ### PRESENTACIÓN DEL PROBLEMA:
 Luego de analizar las respuestas de las encuestas presenciales, rescatamos que los usuarios tomaban mucha importancia al tema de la seguridad, además, que el servicio cumpla con los horarios establecidos para las salidas y llegadas, atención al cliente y servicios en el bus.
 
 Por lo tanto, apoyándonos en el mapa de afinidad en el cual agrupamos todos estos temas concluimos que aquellos que poseían mayor cantidad de post-it son los problemas más relevantes (seguridad y cumplimiento de horarios).
- > “La falta de información detallada en servicios, rutas y paradas y recomendaciones acerca de los servicios que brindan las empresas de transporte terrestre interprovincial.”
+ > “La falta de información detallada en servicios, rutas,  paradas y recomendaciones acerca de los servicios que brindan las empresas de transporte terrestre interprovincial.”
 
 ### USER PERSONAS:
 **User Persona primary**
@@ -137,24 +147,28 @@ Por lo tanto, apoyándonos en el mapa de afinidad en el cual agrupamos todos est
 
 **User persona secondary**
 ![User Persona](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/userperson-02.png)
+
 ![User Persona](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/userperson-03.png)
 
 **Served persona**
+
 ![User Persona](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/userperson-04.jpg)
 
 ### CUSTOMER JOURNEY MAPS:
 
 **-Usando el producto**
+
 ![CUSTOMER JOURNEY MAPS](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/cjmap3.jpg)
 
 ![CUSTOMER JOURNEY MAPS](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/cjmap4.jpg)
 
 ### PROBLEM STATEMENTS:
+
 ![Problem statement](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/pstatements.JPG)
 
 ### HMW (HOW MIGHT WE o Cómo podríamos):
 
-1.    _**HMW** mostramos las rutas y paradas de los buses a los pasajeros?_
+1.    _**HMW** mostrar las rutas y paradas de los buses a los pasajeros?_
 
 2.    _**HMW** hacer que las paradas sean aprovechadas por los pasajeros?_
 
@@ -176,7 +190,7 @@ Por lo tanto, apoyándonos en el mapa de afinidad en el cual agrupamos todos est
 
 ### WHAT IF:
 
-1.    What if no necesita comparar con otras empresas porque esta fidelizado solo con una?
+1.    What if no necesita comparar con otras empresas porque esta fidelizado sólo con una?
 
 2.    What if el bus no hace paradas?
 
@@ -201,7 +215,7 @@ Por lo tanto, apoyándonos en el mapa de afinidad en el cual agrupamos todos est
 
 * Mostrar lo que puede encontrar en cada parada del viaje.
 
-* Mostrar en un cuadro las características y los servicios que ofrece el bus
+* Mostrar en un cuadro las características y los servicios que ofrece el bus.
 
 * Mostrar un cuadro con las características técnicas y estado del bus.
 
@@ -299,10 +313,15 @@ Ada Yajahuanca
 ![Prototyping](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/adaprototyping.jpg)
 
 -Después de esto, el grupo analizó cada prototipo y se rescataron los aportes para que el _Paper Prototyping_ tenga un contenido adecuado y con coherencia respecto al _Content Prottyping_.Se diseñó un nuevo _Paper Prototyping_:
+
 ![Primer Paper Prototyping](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/15.jpg)
+
 ![Primer Paper Prototyping](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/12.jpg)
+
 ![Primer Paper Prototyping](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/11.jpg)
+
 ![Primer Paper Prototyping](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/9.jpg)
+
 ![Primer Paper Prototyping](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/4.jpg)
 
 * **Planear testing de los prototipos**
@@ -409,4 +428,131 @@ Se realiza flujo a nivel usuario en interacción de producto.
 
 Se utiliza FIGMA
 
-![Login](assets/images/login-buses.png)
+![Figma](assets/images/figma.png)
+
+### RESULTADOS TESTING DE PROTOTYPE FIGMA MARVEL
+
+![Vista 1](assets/images/Vista1.png)
+
+![Vista 2](assets/images/Vista2.png)
+
+![Vista 3](assets/images/Vista3.jpg)
+
+![Vista 4](assets/images/Vista4.png)
+
+![Vista 5](assets/images/Vista5.png)
+
+![Vista 6](assets/images/Vista6.png)
+
+![Vista 7](assets/images/Vista8.png)
+
+![Vista 8](assets/images/login-buses.png)
+
+
+
+#### RESULTADOS PRIMER TESTING
+
+#### Nataly Cortez:
+
+* Página de inicio: indica poner una frase inicial más corta,como un slogan de la aplicación/producto
+.
+* Botón comparar: no le llama mucho la atención,
+ni se dió cuenta de que existía y era el plus y razón de la página
+.
+* Página de información individual de la empresa: indica que le gustaría tener una breve reseña de la empresa y sus años de experiencia debajo del nombre.
+* El botón comparar se visualize debajo del nombre para no estar volviendo a la página de incio en todo momento y cliqueando arriba.
+
+* Desea visualizar fotos de la unidades.
+
+* Desea saber de los choferes que estaran en los viajes y el tipo de selección que se les hace.
+
+* Sugiere mejorar la estructura de informacion:
+
+      1.NOMBRE DE EMPRESA
+      2.RESENA DE LA EMPRESA
+      3.BOTON COMPARAR
+      4.SERVICIOS
+      5.CLASE A ELEGIR
+      6.HORARIO DE SALIDA
+      7.TIEMPO DE ESPERA DE SALIDA DEL BUS
+      8.TIEMPO APROXIMADO DE VIAJE
+      9.RUTA Y PARADAS
+     10.PRECIOS POR FERIADOS -SABADOS Y DOMINGO
+
+* Indica que sólo comentaría en la caja de los comentarios si su experiencia hubiera sido realmente buena y que le gustaría logearse con facebook
+ o gmail
+
+* Prefiere valorar con estrellas que escribir.
+* Colores que la usuaria le  transmiten viaje : NEGRO-CELESTE.
+* Desea que toda la información de la empresa sea con los colores respectivos, ejemplo: Oltursa= verde y amarillo.
+* No le llamó la atención el botón comparar para nada
+. Sugiere hacer más llamativo el botón, y el logo elige el último.
+
+
+
+#### Isabel Chávez:
+
+* El botón de comparar no le llamaba la atención pero que si era muy útil y que deberíamos tratar de resaltarlo.
+* Lo otro que me indicó es que no comentaría, porque a él lo unicó que le interesa es la información y por lo tanto no se registraría.
+* El flujo está entendible.
+
+#### Karina Julissa:
+
+
+Mujer de 52 años:
+
+* Debería haber indicaciones cuando señalo cada opción y que me diga que hace.
+
+* Debería haber sugerencias de destinos por si no tiene un destino definido.
+
+* Debería decir que destinos tienen precios bajos y en qué empresas.
+
+* Más información detallada de servicios que ofrece cada empresa.
+
+* No había notado el botón "comparar"
+.
+* El login sólo debería ser con facebook.
+
+
+Varón mayor de 32 años:
+
+* Sugiere que debería tener colores terra y verdes que evoquen que es transporte terrestre y viaje o naturaleza.
+
+* No ve el fin del botón comparemos, es mejor que lo sugiera cuando tenemos las opciones de buses disponibles.
+
+* Que si me logueo sea sólo con facebook y que mi usuario guarde mis búsquedas y comparaciones.
+
+* Más información de cada empresa y que revele las ofertas de cada empresa si lo hay para cada destino que elijo, así puede decidir mejor.
+
+* La frase inicial no invita a nada, mejor sería que muestre destinos a los que se pueda viajar de acuerdo a la temporada.
+
+#### Shannon:
+
+* No hubo inconvenientes con el flujo, todo Ok.
+
+* No se notó el Comparar
+.
+* Sobre el logo de igual manera, la cuarta opcion.
+
+#### Ada:
+
+Mujer 18 años:
+
+* No ve el botón comparar sugiere que se mueva a la izquierda porque es más visible
+.
+* Desean comentar en las ventanas que aparecen las comparaciones.
+* Respecto al mapa le parece novedoso
+
+* Desearía un botón buscar al poner los destinos
+ y que no sea con el enter.
+
+#### AndreEG
+
+Hombre 24 años
+:
+
+* Cree que la mayor ventaja de esta app es comparar y que deberíamos explotar más esta opción.
+
+* No le encuentra sentido a logearse.
+
+* Le gustaría ver fotos de los buses o descripciones más precisas.
