@@ -400,13 +400,6 @@ Esta ventana mostrará servicios dentro del bus, horarios de salida, duración d
 ![Paper Prototyping](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/demo6.JPG)
 7. Aparecerá una ventana a modo de cuadro comparativo con las caracteristicas de cada empresa y en el caso que deseemos comprar el pasaje podemos presionar el botón "Compra aquí" que nos redirigirá a la página web de compra de la empresa elegida.
 ![Paper Prototyping](https://raw.githubusercontent.com/adayc/reto-buses/master/assets/images/demo7.JPG)
-### PRESENTACIÓN:
-
-Se realiza presentación con el flujo del trabajo desarrollado.
-
-[Presentación Final](https://docs.google.com/presentation/d/1yRGp3TjwR7x2dM53hoJHe_-OIhtQG-dCog9ebjoAkeM/edit?usp=sharin)
-
-![Presentación](/assets/images/present-final.png)
 
 ### DEBRIEFING:
 
@@ -449,8 +442,7 @@ Se utiliza FIGMA
 ![Vista 8](assets/images/login-buses.png)
 
 
-
-#### RESULTADOS PRIMER TESTING
+#### RESULTADOS PRIMER TESTING CON MARVEL
 
 #### Nataly Cortez:
 
@@ -487,7 +479,6 @@ ni se dió cuenta de que existía y era el plus y razón de la página
 * Desea que toda la información de la empresa sea con los colores respectivos, ejemplo: Oltursa= verde y amarillo.
 * No le llamó la atención el botón comparar para nada
 . Sugiere hacer más llamativo el botón, y el logo elige el último.
-
 
 
 #### Isabel Chávez:
@@ -556,3 +547,34 @@ Hombre 24 años
 * No le encuentra sentido a logearse.
 
 * Le gustaría ver fotos de los buses o descripciones más precisas.
+
+### DEBRIEFING:
+
+Decidir cuáles serán los siguiente pasos:
+
+_a.¿Mejorar el prototipo para hacer nuevas pruebas?_
+
+_b.¿Crear un nuevo prototipo?_
+
+>Optamos por la ópcion _"a"_,debido a que el flujo para usar el producto fue comprensible.
+
+1. Se agregó la opción comparar y elegir empresa dentro del cuadro donde se ingresa origen y destino (se quito la opcion comparar del header)
+2. Se agregó un detalle más gráfico en las paradas (íconos y nombre de lugar).
+
+### VISTAS A COLOR
+![final a color](/assets/images/1-inicio.jpg)
+![final a color](/assets/images/2-origendestino.jpg)
+![final a color](/assets/images/2-a-empresas.jpg)
+![final a color](/assets/images/2-b-comparar.jpg)
+![final a color](/assets/images/2-b-comparar2.jpg)
+![final a color](/assets/images/3-empresa.jpg)
+![final a color](/assets/images/3-empresalog.jpg)
+
+
+### PRESENTACIÓN:
+
+Se realiza presentación con el flujo del trabajo desarrollado.
+
+[Presentación Final](https://docs.google.com/presentation/d/1yRGp3TjwR7x2dM53hoJHe_-OIhtQG-dCog9ebjoAkeM/edit?usp=sharin)
+
+![Presentación](/assets/images/present-final.png)
