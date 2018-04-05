@@ -4,7 +4,6 @@ Viaggio es una plataforma online en el cual encontrarás la información que nec
 
 ![viaggio-vista-previa](https://user-images.githubusercontent.com/32301245/38389354-d44d8304-38e3-11e8-80b4-39f804f2c5c2.png)
 
-
 ### Desarrollado para
 
 * [Laboratoria](http://talento.laboratoria.la/)
